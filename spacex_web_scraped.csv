@@ -1,0 +1,1529 @@
+Flight No.,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Version Booster,Booster landing,Date,Time
+1,CCAFS,Dragon Spacecraft Qualification Unit,0,LEO,SpaceX,"Success
+",F9 v1.1,Failure,4 June 2010,18:45
+2,CCAFS,Dragon,0,LEO,NASA,Success,F9 v1.1,Failure,8 December 2010,15:43
+3,CCAFS,Dragon,525 kg,LEO,NASA,Success,F9 v1.1,"No attempt
+",22 May 2012,07:44
+4,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,NASA,"Success
+",F9 v1.1,No attempt,8 October 2012,00:35
+5,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,NASA,"Success
+",F9 v1.1,"No attempt
+",1 March 2013,15:10
+6,VAFB,CASSIOPE,500 kg,Polar orbit,MDA,Success,F9 v1.1,Uncontrolled,29 September 2013,16:00
+7,CCAFS,SES-8,"3,170 kg",GTO,SES,Success,F9 v1.1,No attempt,3 December 2013,22:41
+8,CCAFS,Thaicom 6,"3,325 kg",GTO,Thaicom,Success,F9 v1.1,No attempt,6 January 2014,22:06
+9,Cape Canaveral,SpaceX CRS-3,"2,296 kg",LEO,NASA,"Success
+",F9 v1.1,Controlled,18 April 2014,19:25
+10,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,Orbcomm,Success,F9 v1.1,Controlled,14 July 2014,15:15
+11,Cape Canaveral,AsiaSat 8,"4,535 kg",GTO,AsiaSat,Success,F9 v1.1,No attempt,5 August 2014,08:00
+12,Cape Canaveral,AsiaSat 6,"4,428 kg",GTO,AsiaSat,Success,F9 v1.1,"No attempt
+",7 September 2014,05:00
+13,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,NASA,Success,F9 v1.1,Uncontrolled,21 September 2014,05:52
+14,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,NASA,Success,F9 v1.1,Failure ,10 January 2015,09:47
+15,Cape Canaveral,DSCOVR,570 kg,HEO,USAF,"Success
+",F9 v1.1,Controlled,11 February 2015,23:03
+16,Cape Canaveral,ABS-3A,"4,159 kg",GTO,ABS,"Success
+",F9 v1.1,No attempt,2 March 2015,03:50
+17,Cape Canaveral,SpaceX CRS-6,"1,898 kg",LEO,NASA,"Success
+",F9 v1.1,Failure,14 April 2015,20:10
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,,"Success
+",F9 v1.1,No attempt,27 April 2015,23:03
+19,Cape Canaveral,SpaceX CRS-7,"1,952 kg",LEO,NASA,Failure,F9 v1.1,Precluded,28 June 2015,14:21
+20,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,Orbcomm,"Success
+",F9 v1.1,Success,22 December 2015,01:29
+21,VAFB,Jason-3,553 kg,LEO,NASA,"Success
+",,Failure,17 January 2016,18:42
+22,Cape Canaveral,SES-9,"5,271 kg",GTO,SES,"Success
+",,Failure,4 March 2016,23:35
+23,Cape Canaveral,SpaceX CRS-8,"3,136 kg",LEO,NASA,Success,,Success,8 April 2016,20:43
+24,Cape Canaveral,JCSAT-14,"4,696 kg",GTO,SKY Perfect JSAT Group,"Success
+",,Success,6 May 2016,05:21
+25,Cape Canaveral,Thaicom 8,"3,100 kg",GTO,Thaicom,"Success
+",,Success,27 May 2016,21:39
+26,Cape Canaveral,ABS-2A,"3,600 kg",GTO,ABS,"Success
+",,Failure,15 June 2016,14:29
+27,Cape Canaveral,SpaceX CRS-9,"2,257 kg",LEO,NASA,"Success
+",,Success,18 July 2016,04:45
+28,Cape Canaveral,JCSAT-16,"4,600 kg",GTO,SKY Perfect JSAT Group,"Success
+",,Success,14 August 2016,05:26
+29,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,"Success
+",,Success,14 January 2017,17:54
+30,KSC,SpaceX CRS-10,"2,490 kg",LEO,NASA,"Success
+",,Success,19 February 2017,14:39
+31,KSC,EchoStar 23,"5,600 kg",GTO,EchoStar,"Success
+",,No attempt,16 March 2017,06:00
+32,KSC,SES-10,"5,300 kg",GTO,SES,Success,,Success,30 March 2017,22:27
+33,KSC,NROL-76,C,LEO,NRO,"Success
+",,Success,1 May 2017,11:15
+34,KSC,Inmarsat-5 F4,"6,070 kg",GTO,Inmarsat,"Success
+",,No attempt,15 May 2017,23:21
+35,KSC,SpaceX CRS-11,"2,708 kg",LEO,NASA,"Success
+",,Success,3 June 2017,21:07
+36,KSC,BulgariaSat-1,"3,669 kg",GTO,Bulsatcom,"Success
+",,Success,23 June 2017,19:10
+37,VAFB,Iridium NEXT,"9,600 kg",LEO,Iridium Communications,"Success
+",,Success,25 June 2017,20:25
+38,KSC,Intelsat 35e,"6,761 kg",GTO,Intelsat,"Success
+",,No attempt,5 July 2017,23:38
+39,KSC,SpaceX CRS-12,"3,310 kg",LEO,NASA,"Success
+",,Success,14 August 2017,16:31
+40,VAFB,Formosat-5,475 kg,SSO,NSPO,"Success
+",,Success,24 August 2017,18:51
+41,KSC,Boeing X-37B,"4,990 kg",LEO,USAF,"Success
+",,Success,7 September 2017,14:00
+42,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,"Success
+",,Success,9 October 2017,12:37
+43,KSC,SES-11,"5,200 kg",GTO,SES S.A.,"Success
+",,Success,11 October 2017,22:53:00
+44,KSC,Koreasat 5A,"3,500 kg",GTO,KT Corporation,"Success
+",,Success,30 October 2017,19:34
+45,Cape Canaveral,SpaceX CRS-13,"2,205 kg",LEO,NASA,"Success
+",,Success,15 December 2017,15:36
+46,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,Success,,Controlled,23 December 2017,01:27
+47,CCAFS,Zuma,C,LEO,Northrop Grumman,Success,,Success,8 January 2018,01:00
+48,CCAFS,GovSat-1,"4,230 kg",GTO,SES,Success,,Controlled,31 January 2018,21:25
+49,VAFB,Paz,"2,150 kg",SSO,Hisdesat,Success,,No attempt,22 February 2018,14:17
+50,CCAFS,Hispasat 30W-6,"6,092 kg",GTO,Hispasat,Success,,No attempt,6 March 2018,05:33
+51,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,Success,,No attempt,30 March 2018,14:14
+52,CCAFS,SpaceX CRS-14,"2,647 kg",LEO,NASA,Success,,No attempt,2 April 2018,20:30
+53,CCAFS,Transiting Exoplanet Survey Satellite,362 kg,HEO,NASA,Success,,Success,18 April 2018,22:51
+54,KSC,Bangabandhu-1,"3,600 kg",GTO,Thales-Alenia,Success,,Success,11 May 2018,20:14
+55,VAFB,Iridium NEXT,"6,460 kg",Polar,Iridium Communications,Success,,No attempt,22 May 2018,19:47
+56,CCAFS,SES-12,"5,384 kg",GTO,SES,Success,,No attempt,4 June 2018,04:45
+57,CCAFS,SpaceX CRS-15,"2,697 kg",LEO,NASA,Success,,No attempt,29 June 2018,09:42
+58,CCAFS,Telstar 19V,"7,075 kg",GTO,Telesat,Success,,Success,22 July 2018,05:50
+59,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,Success,,Success,25 July 2018,11:39
+60,CCAFS,Merah Putih,"5,800 kg",GTO,Telkom Indonesia,Success,,Success,7 August 2018,05:18
+61,CCAFS,Telstar 18V,"7,060 kg",GTO,Telesat,Success,,Success,10 September 2018,04:45
+62,VAFB,SAOCOM 1A,"3,000 kg",SSO,CONAE,Success,,Success,8 October 2018,02:22
+63,KSC,Es'hail 2,"5,300 kg",GTO,Es'hailSat,Success,,Success,15 November 2018,20:46
+64,VAFB,SSO-A,"~4,000 kg",SSO,Spaceflight Industries,Success,,Success,3 December 2018,18:34:05
+65,CCAFS,SpaceX CRS-16,"2,500 kg",LEO,NASA,"Success
+",,Failure,5 December 2018,18:16
+66,CCAFS,GPS III,"4,400 kg",MEO,USAF,Success,,No attempt,23 December 2018,13:51
+67,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,"Success
+",,Success,11 January 2019,15:31
+68,CCAFS,Nusantara Satu,"4,850 kg",GTO,PSN,"Success
+",,Success,22 February 2019,01:45
+69,KSC,Crew Dragon Demo-1,"12,055 kg",LEO,NASA,"Success
+",,Success,2 March 2019,07:49
+70,CCAFS,SpaceX CRS-17,"2,495 kg",LEO,NASA,"Success
+",,Success,4 May 2019,06:48
+71,CCAFS,Starlink,"13,620 kg",LEO,SpaceX,"Success
+",,Success,24 May 2019,02:30
+72,VAFB,RADARSAT Constellation,"4,200 kg",SSO,Canadian Space Agency,"Success
+",,Success,12 June 2019,14:17
+73,CCAFS,SpaceX CRS-18,"2,268 kg",LEO,NASA,"Success
+",,Success,25 July 2019,22:01
+74,CCAFS,AMOS-17,"6,500 kg",GTO,Spacecom,"Success
+",,No attempt,6 August 2019,23:23
+75,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,11 November 2019,14:56
+76,CCAFS,SpaceX CRS-19,"2,617 kg",LEO,NASA,"Success
+",,Success,5 December 2019,17:29
+77,CCAFS,JCSat-18,"6,956 kg",GTO,Sky Perfect JSAT,"Success
+",,Success,17 December 2019,00:10
+78,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,7 January 2020,02:19:21
+79,KSC,Crew Dragon in-flight abort test,"12,050 kg",Sub-orbital,NASA,"Success
+",,"No attempt
+",19 January 2020,15:30
+80,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,29 January 2020,14:07
+81,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Failure,17 February 2020,15:05
+82,CCAFS,SpaceX CRS-20,"1,977 kg",LEO,NASA,"Success
+",,Success,7 March 2020,04:50
+83,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Failure,18 March 2020,12:16
+84,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,22 April 2020,19:30
+85,KSC,Crew Dragon Demo-2,"12,530 kg",LEO,NASA,"Success
+",,Success,30 May 2020,19:22
+86,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,4 June 2020,01:25
+87,CCAFS,Starlink,"15,410 kg",LEO,SpaceX,"Success
+",,Success,13 June 2020,09:21
+88,CCAFS,GPS III,"4,311 kg",MEO,U.S. Space Force,"Success
+",,Success,30 June 2020,20:10:46
+89,CCAFS,ANASIS-II,"5,000–6,000 kg",GTO,Republic of Korea Army,"Success
+",,Success,20 July 2020,21:30
+90,KSC,Starlink,"14,932 kg",LEO,SpaceX,"Success
+",,Success,7 August 2020,05:12
+91,CCAFS,Starlink,"~15,440 kg",LEO,SpaceX,"Success
+",,Success,18 August 2020,14:31
+92,CCAFS,SAOCOM 1B,"3,130 kg",SSO,CONAE,"Success
+",,Success,30 August 2020,23:18
+93,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,3 September 2020,12:46:14
+94,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,6 October 2020,11:29:34
+95,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,18 October 2020,12:25:57
+96,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,24 October 2020,15:31:34
+97,CCAFS,GPS III,"4,311 kg",MEO,USSF,"Success
+",,Success,5 November 2020,23:24:23
+98,KSC,Crew-1,"~12,500 kg",LEO,NASA,"Success
+",,Success,16 November 2020,00:27
+99,VAFB,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,NASA,"Success
+",,Success,21 November 2020,17:17:08
+100,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,25 November 2020,02:13
+101,KSC,SpaceX CRS-21,"2,972 kg",LEO,NASA,"Success
+",,Success,6 December 2020,16:17:08
+102,CCSFS,SXM-7,"7,000 kg",GTO,Sirius XM,"Success
+",,Success,13 December 2020,17:30:00
+103,KSC,NROL-108,C,LEO,NRO,"Success
+",,Success,19 December 2020,14:00:00
+104,CCSFS,Türksat 5A,"3,500 kg",GTO,Türksat,"Success
+",,Success,8 January 2021,02:15
+105,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,20 January 2021,13:02
+106,CCSFS,Transporter-1,"~5,000 kg",SSO,SpaceX,"Success
+",,Success,24 January 2021,15:00
+107,CCSFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,4 February 2021,06:19
+108,CCSFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Failure,16 February 2021,03:59:37
+109,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,4 March 2021,08:24
+110,CCSFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,11 March 2021,08:13:29
+111,KSC,Starlink,"15,600 kg",LEO,MDA,"Success
+",,Success,14 March 2021,10:01
+112,CCSFS,Starlink,"15,600 kg",LEO,SES,"Success
+",,Success,24 March 2021,08:28
+113,CCSFS,Starlink,"15,600 kg",LEO,Thaicom,"Success
+",,Success,7 April 2021,16:34
+114,KSC,Crew-2,"~13,000 kg",LEO,NASA,"Success
+",,Success,23 April 2021,9:49
+115,CCSFS,Starlink,"15,600 kg",LEO,Orbcomm,"Success
+",,Success,29 April 2021,03:44
+116,KSC,Starlink,"15,600 kg",LEO,AsiaSat,"Success
+",,Success,4 May 2021,19:01
+117,CCSFS,Starlink,"15,600 kg",LEO,AsiaSat,"Success
+",,Success,9 May 2021,06:42
+118,KSC,Starlink,"~14,000 kg",LEO,NASA,"Success
+",,Success,15 May 2021,22:56
+119,CCSFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,26 May 2021,18:59
+120,KSC,SpaceX CRS-22,"3,328 kg",LEO,USAF,"Success
+",,Success,3 June 2021,17:29
+121,CCSFS,SXM-8,"7,000 kg",GTO,ABS,"Success
+",,Success,6 June 2021,04:26
+1,CCAFS,Dragon Spacecraft Qualification Unit,,,NASA,,,,4 June 2010,18:45
+2,CCAFS,Dragon,,,,,,,8 December 2010,18:45
+3,CCAFS,Dragon,,,NASA,,,,22 May 2012,18:45
+4,CCAFS,SpaceX CRS-1,,,Orbcomm,,,,8 October 2012,15:43
+5,CCAFS,SpaceX CRS-2,,,NASA,,,,1 March 2013,07:44
+6,VAFB,CASSIOPE,,,SES,,,,29 September 2013,00:35
+7,CCAFS,SES-8,,,NASA,,,,3 December 2013,15:10
+8,CCAFS,Thaicom 6,,,SKY Perfect JSAT Group,,,,6 January 2014,16:00
+9,Cape Canaveral,SpaceX CRS-3,,,Thaicom,,,,18 April 2014,22:41
+10,Cape Canaveral,Orbcomm-OG2,,,ABS,,,,14 July 2014,22:06
+11,Cape Canaveral,AsiaSat 8,,,NASA,,,,5 August 2014,19:25
+12,Cape Canaveral,AsiaSat 6,,,SKY Perfect JSAT Group,,,,7 September 2014,15:15
+13,Cape Canaveral,SpaceX CRS-4,,,Iridium Communications,,,,21 September 2014,08:00
+14,Cape Canaveral,SpaceX CRS-5,,,NASA,,,,10 January 2015,05:00
+15,Cape Canaveral,DSCOVR,,,EchoStar,,,,11 February 2015,05:52
+16,Cape Canaveral,ABS-3A,,,SES,,,,2 March 2015,09:47
+17,Cape Canaveral,SpaceX CRS-6,,,NRO,,,,14 April 2015,23:03
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,,,Inmarsat,,,,27 April 2015,03:50
+19,Cape Canaveral,SpaceX CRS-7,,,NASA,,,,28 June 2015,20:10
+20,Cape Canaveral,Orbcomm-OG2,,,Bulsatcom,,,,22 December 2015,23:03
+21,VAFB,Jason-3,,,Iridium Communications,,,,17 January 2016,14:21
+22,Cape Canaveral,SES-9,,,Intelsat,,,,4 March 2016,01:29
+23,Cape Canaveral,SpaceX CRS-8,,,NASA,,,,8 April 2016,18:42
+24,Cape Canaveral,JCSAT-14,,,NSPO,,,,6 May 2016,23:35
+25,Cape Canaveral,Thaicom 8,,,USAF,,,,27 May 2016,20:43
+26,Cape Canaveral,ABS-2A,,,Iridium Communications,,,,15 June 2016,05:21
+27,Cape Canaveral,SpaceX CRS-9,,,SES S.A.,,,,18 July 2016,21:39
+28,Cape Canaveral,JCSAT-16,,,KT Corporation,,,,14 August 2016,14:29
+29,VAFB,Iridium NEXT,,,NASA,,,,14 January 2017,04:45
+30,KSC,SpaceX CRS-10,,,Iridium Communications,,,,19 February 2017,05:26
+31,KSC,EchoStar 23,,,Northrop Grumman,,,,16 March 2017,17:54
+32,KSC,SES-10,,,SES,,,,30 March 2017,14:39
+33,KSC,NROL-76,,,Hisdesat,,,,1 May 2017,06:00
+34,KSC,Inmarsat-5 F4,,,Hispasat,,,,15 May 2017,22:27
+35,KSC,SpaceX CRS-11,,,Iridium Communications,,,,3 June 2017,11:15
+36,KSC,BulgariaSat-1,,,NASA,,,,23 June 2017,23:21
+37,VAFB,Iridium NEXT,,,NASA,,,,25 June 2017,21:07
+38,KSC,Intelsat 35e,,,Thales-Alenia,,,,5 July 2017,19:10
+39,KSC,SpaceX CRS-12,,,Iridium Communications,,,,14 August 2017,20:25
+40,VAFB,Formosat-5,,,SES,,,,24 August 2017,23:38
+41,KSC,Boeing X-37B,,,NASA,,,,7 September 2017,16:31
+42,VAFB,Iridium NEXT,,,Telesat,,,,9 October 2017,18:51
+43,KSC,SES-11,,,Iridium Communications,,,,11 October 2017,14:00
+44,KSC,Koreasat 5A,,,Telkom Indonesia,,,,30 October 2017,12:37
+45,Cape Canaveral,SpaceX CRS-13,,,Telesat,,,,15 December 2017,22:53:00
+46,VAFB,Iridium NEXT,,,CONAE,,,,23 December 2017,19:34
+47,CCAFS,Zuma,,,Es'hailSat,,,,8 January 2018,15:36
+48,CCAFS,GovSat-1,,,Spaceflight Industries,,,,31 January 2018,01:27
+49,VAFB,Paz,,,NASA,,,,22 February 2018,01:00
+50,CCAFS,Hispasat 30W-6,,,USAF,,,,6 March 2018,21:25
+51,VAFB,Iridium NEXT,,,Iridium Communications,,,,30 March 2018,14:17
+52,CCAFS,SpaceX CRS-14,,,PSN,,,,2 April 2018,05:33
+53,CCAFS,Transiting Exoplanet Survey Satellite,,,NASA,,,,18 April 2018,14:14
+54,KSC,Bangabandhu-1,,,NASA,,,,11 May 2018,20:30
+55,VAFB,Iridium NEXT,,,SpaceX,,,,22 May 2018,22:51
+56,CCAFS,SES-12,,,Canadian Space Agency,,,,4 June 2018,20:14
+57,CCAFS,SpaceX CRS-15,,,NASA,,,,29 June 2018,19:47
+58,CCAFS,Telstar 19V,,,Spacecom,,,,22 July 2018,04:45
+59,VAFB,Iridium NEXT,,,SpaceX,,,,25 July 2018,09:42
+60,CCAFS,Merah Putih,,,NASA,,,,7 August 2018,05:50
+61,CCAFS,Telstar 18V,,,Sky Perfect JSAT,,,,10 September 2018,11:39
+62,VAFB,SAOCOM 1A,,,SpaceX,,,,8 October 2018,05:18
+63,KSC,Es'hail 2,,,NASA,,,,15 November 2018,04:45
+64,VAFB,SSO-A,,,SpaceX,,,,3 December 2018,02:22
+65,CCAFS,SpaceX CRS-16,,,SpaceX,,,,5 December 2018,20:46
+66,CCAFS,GPS III,,,NASA,,,,23 December 2018,18:34:05
+67,VAFB,Iridium NEXT,,,SpaceX,,,,11 January 2019,18:16
+68,CCAFS,Nusantara Satu,,,SpaceX,,,,22 February 2019,13:51
+69,KSC,Crew Dragon Demo-1,,,NASA,,,,2 March 2019,15:31
+70,CCAFS,SpaceX CRS-17,,,SpaceX,,,,4 May 2019,01:45
+71,CCAFS,Starlink,,,SpaceX,,,,24 May 2019,07:49
+72,VAFB,RADARSAT Constellation,,,U.S. Space Force,,,,12 June 2019,06:48
+73,CCAFS,SpaceX CRS-18,,,Republic of Korea Army,,,,25 July 2019,02:30
+74,CCAFS,AMOS-17,,,SpaceX,,,,6 August 2019,14:17
+75,CCAFS,Starlink,,,SpaceX,,,,11 November 2019,22:01
+76,CCAFS,SpaceX CRS-19,,,CONAE,,,,5 December 2019,23:23
+77,CCAFS,JCSat-18,,,SpaceX,,,,17 December 2019,14:56
+78,CCAFS,Starlink,,,SpaceX,,,,7 January 2020,17:29
+79,KSC,Crew Dragon in-flight abort test,,,SpaceX,,,,19 January 2020,00:10
+80,CCAFS,Starlink,,,SpaceX,,,,29 January 2020,02:19:21
+81,CCAFS,Starlink,,,USSF,,,,17 February 2020,15:30
+82,CCAFS,SpaceX CRS-20,,,NASA,,,,7 March 2020,14:07
+83,KSC,Starlink,,,NASA,,,,18 March 2020,15:05
+84,KSC,Starlink,,,SpaceX,,,,22 April 2020,04:50
+85,KSC,Crew Dragon Demo-2,,,NASA,,,,30 May 2020,12:16
+86,CCAFS,Starlink,,,Sirius XM,,,,4 June 2020,19:30
+87,CCAFS,Starlink,,,NRO,,,,13 June 2020,19:22
+88,CCAFS,GPS III,,,Türksat,,,,30 June 2020,01:25
+89,CCAFS,ANASIS-II,,,SpaceX,,,,20 July 2020,09:21
+90,KSC,Starlink,,,,,,,7 August 2020,20:10:46
+91,CCAFS,Starlink,,,SpaceX,,,,18 August 2020,21:30
+92,CCAFS,SAOCOM 1B,,,SpaceX,,,,30 August 2020,05:12
+93,KSC,Starlink,,,SpaceX,,,,3 September 2020,14:31
+94,KSC,Starlink,,,SpaceX,,,,6 October 2020,23:18
+95,KSC,Starlink,,,SpaceX,,,,18 October 2020,12:46:14
+96,CCAFS,Starlink,,,SpaceX,,,,24 October 2020,11:29:34
+97,CCAFS,GPS III,,,SpaceX,,,,5 November 2020,12:25:57
+98,KSC,Crew-1,,,NASA,,,,16 November 2020,15:31:34
+99,VAFB,Sentinel-6 Michael Freilich (Jason-CS A),,,SpaceX,,,,21 November 2020,23:24:23
+100,CCAFS,Starlink,,,SpaceX,,,,25 November 2020,00:27
+101,KSC,SpaceX CRS-21,,,SpaceX,,,,6 December 2020,17:17:08
+102,CCSFS,SXM-7,,,SpaceX,,,,13 December 2020,02:13
+103,KSC,NROL-108,,,SpaceX,,,,19 December 2020,16:17:08
+104,CCSFS,Türksat 5A,,,NASA,,,,8 January 2021,17:30:00
+105,KSC,Starlink,,,Sirius XM,,,,20 January 2021,14:00:00
+106,CCSFS,Transporter-1,,,SpaceX,,,,24 January 2021,02:15
+107,CCSFS,Starlink,,,NASA,,,,4 February 2021,13:02
+108,CCSFS,Starlink,,,NASA,,,,16 February 2021,15:00
+109,KSC,Starlink,,,NASA,,,,4 March 2021,06:19
+110,CCSFS,Starlink,,,NASA,,,,11 March 2021,03:59:37
+111,KSC,Starlink,,,MDA,,,,14 March 2021,08:24
+112,CCSFS,Starlink,,,SES,,,,24 March 2021,08:13:29
+113,CCSFS,Starlink,,,Thaicom,,,,7 April 2021,10:01
+114,KSC,Crew-2,,,NASA,,,,23 April 2021,08:28
+115,CCSFS,Starlink,,,Orbcomm,,,,29 April 2021,16:34
+116,KSC,Starlink,,,AsiaSat,,,,4 May 2021,9:49
+117,CCSFS,Starlink,,,AsiaSat,,,,9 May 2021,03:44
+118,KSC,Starlink,,,NASA,,,,15 May 2021,19:01
+119,CCSFS,Starlink,,,NASA,,,,26 May 2021,06:42
+120,KSC,SpaceX CRS-22,,,USAF,,,,3 June 2021,22:56
+121,CCSFS,SXM-8,,,ABS,,,,6 June 2021,18:59
+1,CCAFS,,,,NASA,,,,4 June 2010,17:29
+2,CCAFS,,,,,,,,4 June 2010,04:26
+3,CCAFS,,,,NASA,,,,4 June 2010,18:45
+4,CCAFS,,,,Orbcomm,,,,8 December 2010,15:43
+5,CCAFS,,,,NASA,,,,22 May 2012,07:44
+6,VAFB,,,,SES,,,,8 October 2012,00:35
+7,CCAFS,,,,NASA,,,,1 March 2013,15:10
+8,CCAFS,,,,SKY Perfect JSAT Group,,,,29 September 2013,16:00
+9,Cape Canaveral,,,,Thaicom,,,,3 December 2013,22:41
+10,Cape Canaveral,,,,ABS,,,,6 January 2014,22:06
+11,Cape Canaveral,,,,NASA,,,,18 April 2014,19:25
+12,Cape Canaveral,,,,SKY Perfect JSAT Group,,,,14 July 2014,15:15
+13,Cape Canaveral,,,,Iridium Communications,,,,5 August 2014,08:00
+14,Cape Canaveral,,,,NASA,,,,7 September 2014,05:00
+15,Cape Canaveral,,,,EchoStar,,,,21 September 2014,05:52
+16,Cape Canaveral,,,,SES,,,,10 January 2015,09:47
+17,Cape Canaveral,,,,NRO,,,,11 February 2015,23:03
+18,Cape Canaveral,,,,Inmarsat,,,,2 March 2015,03:50
+19,Cape Canaveral,,,,NASA,,,,14 April 2015,20:10
+20,Cape Canaveral,,,,Bulsatcom,,,,27 April 2015,23:03
+21,VAFB,,,,Iridium Communications,,,,28 June 2015,14:21
+22,Cape Canaveral,,,,Intelsat,,,,22 December 2015,01:29
+23,Cape Canaveral,,,,NASA,,,,17 January 2016,18:42
+24,Cape Canaveral,,,,NSPO,,,,4 March 2016,23:35
+25,Cape Canaveral,,,,USAF,,,,8 April 2016,20:43
+26,Cape Canaveral,,,,Iridium Communications,,,,6 May 2016,05:21
+27,Cape Canaveral,,,,SES S.A.,,,,27 May 2016,21:39
+28,Cape Canaveral,,,,KT Corporation,,,,15 June 2016,14:29
+29,VAFB,,,,NASA,,,,18 July 2016,04:45
+30,KSC,,,,Iridium Communications,,,,14 August 2016,05:26
+31,KSC,,,,Northrop Grumman,,,,14 January 2017,17:54
+32,KSC,,,,SES,,,,19 February 2017,14:39
+33,KSC,,,,Hisdesat,,,,16 March 2017,06:00
+34,KSC,,,,Hispasat,,,,30 March 2017,22:27
+35,KSC,,,,Iridium Communications,,,,1 May 2017,11:15
+36,KSC,,,,NASA,,,,15 May 2017,23:21
+37,VAFB,,,,NASA,,,,3 June 2017,21:07
+38,KSC,,,,Thales-Alenia,,,,23 June 2017,19:10
+39,KSC,,,,Iridium Communications,,,,25 June 2017,20:25
+40,VAFB,,,,SES,,,,5 July 2017,23:38
+41,KSC,,,,NASA,,,,14 August 2017,16:31
+42,VAFB,,,,Telesat,,,,24 August 2017,18:51
+43,KSC,,,,Iridium Communications,,,,7 September 2017,14:00
+44,KSC,,,,Telkom Indonesia,,,,9 October 2017,12:37
+45,Cape Canaveral,,,,Telesat,,,,11 October 2017,22:53:00
+46,VAFB,,,,CONAE,,,,30 October 2017,19:34
+47,CCAFS,,,,Es'hailSat,,,,15 December 2017,15:36
+48,CCAFS,,,,Spaceflight Industries,,,,23 December 2017,01:27
+49,VAFB,,,,NASA,,,,8 January 2018,01:00
+50,CCAFS,,,,USAF,,,,31 January 2018,21:25
+51,VAFB,,,,Iridium Communications,,,,22 February 2018,14:17
+52,CCAFS,,,,PSN,,,,6 March 2018,05:33
+53,CCAFS,,,,NASA,,,,30 March 2018,14:14
+54,KSC,,,,NASA,,,,2 April 2018,20:30
+55,VAFB,,,,SpaceX,,,,18 April 2018,22:51
+56,CCAFS,,,,Canadian Space Agency,,,,11 May 2018,20:14
+57,CCAFS,,,,NASA,,,,22 May 2018,19:47
+58,CCAFS,,,,Spacecom,,,,4 June 2018,04:45
+59,VAFB,,,,SpaceX,,,,29 June 2018,09:42
+60,CCAFS,,,,NASA,,,,22 July 2018,05:50
+61,CCAFS,,,,Sky Perfect JSAT,,,,25 July 2018,11:39
+62,VAFB,,,,SpaceX,,,,7 August 2018,05:18
+63,KSC,,,,NASA,,,,10 September 2018,04:45
+64,VAFB,,,,SpaceX,,,,8 October 2018,02:22
+65,CCAFS,,,,SpaceX,,,,15 November 2018,20:46
+66,CCAFS,,,,NASA,,,,3 December 2018,18:34:05
+67,VAFB,,,,SpaceX,,,,5 December 2018,18:16
+68,CCAFS,,,,SpaceX,,,,23 December 2018,13:51
+69,KSC,,,,NASA,,,,11 January 2019,15:31
+70,CCAFS,,,,SpaceX,,,,22 February 2019,01:45
+71,CCAFS,,,,SpaceX,,,,2 March 2019,07:49
+72,VAFB,,,,U.S. Space Force,,,,4 May 2019,06:48
+73,CCAFS,,,,Republic of Korea Army,,,,24 May 2019,02:30
+74,CCAFS,,,,SpaceX,,,,12 June 2019,14:17
+75,CCAFS,,,,SpaceX,,,,25 July 2019,22:01
+76,CCAFS,,,,CONAE,,,,6 August 2019,23:23
+77,CCAFS,,,,SpaceX,,,,11 November 2019,14:56
+78,CCAFS,,,,SpaceX,,,,5 December 2019,17:29
+79,KSC,,,,SpaceX,,,,17 December 2019,00:10
+80,CCAFS,,,,SpaceX,,,,7 January 2020,02:19:21
+81,CCAFS,,,,USSF,,,,19 January 2020,15:30
+82,CCAFS,,,,NASA,,,,29 January 2020,14:07
+83,KSC,,,,NASA,,,,17 February 2020,15:05
+84,KSC,,,,SpaceX,,,,7 March 2020,04:50
+85,KSC,,,,NASA,,,,18 March 2020,12:16
+86,CCAFS,,,,Sirius XM,,,,22 April 2020,19:30
+87,CCAFS,,,,NRO,,,,30 May 2020,19:22
+88,CCAFS,,,,Türksat,,,,4 June 2020,01:25
+89,CCAFS,,,,SpaceX,,,,13 June 2020,09:21
+90,KSC,,,,,,,,30 June 2020,20:10:46
+91,CCAFS,,,,SpaceX,,,,20 July 2020,21:30
+92,CCAFS,,,,SpaceX,,,,7 August 2020,05:12
+93,KSC,,,,SpaceX,,,,18 August 2020,14:31
+94,KSC,,,,SpaceX,,,,30 August 2020,23:18
+95,KSC,,,,SpaceX,,,,3 September 2020,12:46:14
+96,CCAFS,,,,SpaceX,,,,6 October 2020,11:29:34
+97,CCAFS,,,,SpaceX,,,,18 October 2020,12:25:57
+98,KSC,,,,NASA,,,,24 October 2020,15:31:34
+99,VAFB,,,,SpaceX,,,,5 November 2020,23:24:23
+100,CCAFS,,,,SpaceX,,,,16 November 2020,00:27
+101,KSC,,,,SpaceX,,,,21 November 2020,17:17:08
+102,CCSFS,,,,SpaceX,,,,25 November 2020,02:13
+103,KSC,,,,SpaceX,,,,6 December 2020,16:17:08
+104,CCSFS,,,,NASA,,,,13 December 2020,17:30:00
+105,KSC,,,,Sirius XM,,,,19 December 2020,14:00:00
+106,CCSFS,,,,SpaceX,,,,8 January 2021,02:15
+107,CCSFS,,,,NASA,,,,20 January 2021,13:02
+108,CCSFS,,,,NASA,,,,24 January 2021,15:00
+109,KSC,,,,NASA,,,,4 February 2021,06:19
+110,CCSFS,,,,NASA,,,,16 February 2021,03:59:37
+111,KSC,,,,MDA,,,,4 March 2021,08:24
+112,CCSFS,,,,SES,,,,11 March 2021,08:13:29
+113,CCSFS,,,,Thaicom,,,,14 March 2021,10:01
+114,KSC,,,,NASA,,,,24 March 2021,08:28
+115,CCSFS,,,,Orbcomm,,,,7 April 2021,16:34
+116,KSC,,,,AsiaSat,,,,23 April 2021,9:49
+117,CCSFS,,,,AsiaSat,,,,29 April 2021,03:44
+118,KSC,,,,NASA,,,,4 May 2021,19:01
+119,CCSFS,,,,NASA,,,,9 May 2021,06:42
+120,KSC,,,,USAF,,,,15 May 2021,22:56
+121,CCSFS,,,,ABS,,,,26 May 2021,18:59
+1,,,,,NASA,,,,3 June 2021,17:29
+1,,,,,,,,,6 June 2021,04:26
+1,,,,,NASA,,,,4 June 2010,18:45
+2,,,,,Orbcomm,,,,8 December 2010,15:43
+3,,,,,NASA,,,,22 May 2012,07:44
+4,,,,,SES,,,,8 October 2012,00:35
+5,,,,,NASA,,,,1 March 2013,15:10
+6,,,,,SKY Perfect JSAT Group,,,,29 September 2013,16:00
+7,,,,,Thaicom,,,,3 December 2013,22:41
+8,,,,,ABS,,,,6 January 2014,22:06
+9,,,,,NASA,,,,18 April 2014,19:25
+10,,,,,SKY Perfect JSAT Group,,,,14 July 2014,15:15
+11,,,,,Iridium Communications,,,,5 August 2014,08:00
+12,,,,,NASA,,,,7 September 2014,05:00
+13,,,,,EchoStar,,,,21 September 2014,05:52
+14,,,,,SES,,,,10 January 2015,09:47
+15,,,,,NRO,,,,11 February 2015,23:03
+16,,,,,Inmarsat,,,,2 March 2015,03:50
+17,,,,,NASA,,,,14 April 2015,20:10
+18,,,,,Bulsatcom,,,,27 April 2015,23:03
+19,,,,,Iridium Communications,,,,28 June 2015,14:21
+20,,,,,Intelsat,,,,22 December 2015,01:29
+21,,,,,NASA,,,,17 January 2016,18:42
+22,,,,,NSPO,,,,4 March 2016,23:35
+23,,,,,USAF,,,,8 April 2016,20:43
+24,,,,,Iridium Communications,,,,6 May 2016,05:21
+25,,,,,SES S.A.,,,,27 May 2016,21:39
+26,,,,,KT Corporation,,,,15 June 2016,14:29
+27,,,,,NASA,,,,18 July 2016,04:45
+28,,,,,Iridium Communications,,,,14 August 2016,05:26
+29,,,,,Northrop Grumman,,,,14 January 2017,17:54
+30,,,,,SES,,,,19 February 2017,14:39
+31,,,,,Hisdesat,,,,16 March 2017,06:00
+32,,,,,Hispasat,,,,30 March 2017,22:27
+33,,,,,Iridium Communications,,,,1 May 2017,11:15
+34,,,,,NASA,,,,15 May 2017,23:21
+35,,,,,NASA,,,,3 June 2017,21:07
+36,,,,,Thales-Alenia,,,,23 June 2017,19:10
+37,,,,,Iridium Communications,,,,25 June 2017,20:25
+38,,,,,SES,,,,5 July 2017,23:38
+39,,,,,NASA,,,,14 August 2017,16:31
+40,,,,,Telesat,,,,24 August 2017,18:51
+41,,,,,Iridium Communications,,,,7 September 2017,14:00
+42,,,,,Telkom Indonesia,,,,9 October 2017,12:37
+43,,,,,Telesat,,,,11 October 2017,22:53:00
+44,,,,,CONAE,,,,30 October 2017,19:34
+45,,,,,Es'hailSat,,,,15 December 2017,15:36
+46,,,,,Spaceflight Industries,,,,23 December 2017,01:27
+47,,,,,NASA,,,,8 January 2018,01:00
+48,,,,,USAF,,,,31 January 2018,21:25
+49,,,,,Iridium Communications,,,,22 February 2018,14:17
+50,,,,,PSN,,,,6 March 2018,05:33
+51,,,,,NASA,,,,30 March 2018,14:14
+52,,,,,NASA,,,,2 April 2018,20:30
+53,,,,,SpaceX,,,,18 April 2018,22:51
+54,,,,,Canadian Space Agency,,,,11 May 2018,20:14
+55,,,,,NASA,,,,22 May 2018,19:47
+56,,,,,Spacecom,,,,4 June 2018,04:45
+57,,,,,SpaceX,,,,29 June 2018,09:42
+58,,,,,NASA,,,,22 July 2018,05:50
+59,,,,,Sky Perfect JSAT,,,,25 July 2018,11:39
+60,,,,,SpaceX,,,,7 August 2018,05:18
+61,,,,,NASA,,,,10 September 2018,04:45
+62,,,,,SpaceX,,,,8 October 2018,02:22
+63,,,,,SpaceX,,,,15 November 2018,20:46
+64,,,,,NASA,,,,3 December 2018,18:34:05
+65,,,,,SpaceX,,,,5 December 2018,18:16
+66,,,,,SpaceX,,,,23 December 2018,13:51
+67,,,,,NASA,,,,11 January 2019,15:31
+68,,,,,SpaceX,,,,22 February 2019,01:45
+69,,,,,SpaceX,,,,2 March 2019,07:49
+70,,,,,U.S. Space Force,,,,4 May 2019,06:48
+71,,,,,Republic of Korea Army,,,,24 May 2019,02:30
+72,,,,,SpaceX,,,,12 June 2019,14:17
+73,,,,,SpaceX,,,,25 July 2019,22:01
+74,,,,,CONAE,,,,6 August 2019,23:23
+75,,,,,SpaceX,,,,11 November 2019,14:56
+76,,,,,SpaceX,,,,5 December 2019,17:29
+77,,,,,SpaceX,,,,17 December 2019,00:10
+78,,,,,SpaceX,,,,7 January 2020,02:19:21
+79,,,,,USSF,,,,19 January 2020,15:30
+80,,,,,NASA,,,,29 January 2020,14:07
+81,,,,,NASA,,,,17 February 2020,15:05
+82,,,,,SpaceX,,,,7 March 2020,04:50
+83,,,,,NASA,,,,18 March 2020,12:16
+84,,,,,Sirius XM,,,,22 April 2020,19:30
+85,,,,,NRO,,,,30 May 2020,19:22
+86,,,,,Türksat,,,,4 June 2020,01:25
+87,,,,,SpaceX,,,,13 June 2020,09:21
+88,,,,,,,,,30 June 2020,20:10:46
+89,,,,,SpaceX,,,,20 July 2020,21:30
+90,,,,,SpaceX,,,,7 August 2020,05:12
+91,,,,,SpaceX,,,,18 August 2020,14:31
+92,,,,,SpaceX,,,,30 August 2020,23:18
+93,,,,,SpaceX,,,,3 September 2020,12:46:14
+94,,,,,SpaceX,,,,6 October 2020,11:29:34
+95,,,,,SpaceX,,,,18 October 2020,12:25:57
+96,,,,,NASA,,,,24 October 2020,15:31:34
+97,,,,,SpaceX,,,,5 November 2020,23:24:23
+98,,,,,SpaceX,,,,16 November 2020,00:27
+99,,,,,SpaceX,,,,21 November 2020,17:17:08
+100,,,,,SpaceX,,,,25 November 2020,02:13
+101,,,,,SpaceX,,,,6 December 2020,16:17:08
+102,,,,,NASA,,,,13 December 2020,17:30:00
+103,,,,,Sirius XM,,,,19 December 2020,14:00:00
+104,,,,,SpaceX,,,,8 January 2021,02:15
+105,,,,,NASA,,,,20 January 2021,13:02
+106,,,,,NASA,,,,24 January 2021,15:00
+107,,,,,NASA,,,,4 February 2021,06:19
+108,,,,,NASA,,,,16 February 2021,03:59:37
+109,,,,,MDA,,,,4 March 2021,08:24
+110,,,,,SES,,,,11 March 2021,08:13:29
+111,,,,,Thaicom,,,,14 March 2021,10:01
+112,,,,,NASA,,,,24 March 2021,08:28
+113,,,,,Orbcomm,,,,7 April 2021,16:34
+114,,,,,AsiaSat,,,,23 April 2021,9:49
+115,,,,,AsiaSat,,,,29 April 2021,03:44
+116,,,,,NASA,,,,4 May 2021,19:01
+117,,,,,NASA,,,,9 May 2021,06:42
+118,,,,,USAF,,,,15 May 2021,22:56
+119,,,,,ABS,,,,26 May 2021,18:59
+120,,,,,NASA,,,,3 June 2021,17:29
+121,,,,,,,,,6 June 2021,04:26
+1,,,,,NASA,,,,4 June 2010,
+2,,,,,Orbcomm,,,,8 December 2010,
+3,,,,,NASA,,,,22 May 2012,
+4,,,,,SES,,,,8 October 2012,
+5,,,,,NASA,,,,1 March 2013,
+6,,,,,SKY Perfect JSAT Group,,,,29 September 2013,
+7,,,,,Thaicom,,,,3 December 2013,
+8,,,,,ABS,,,,6 January 2014,
+9,,,,,NASA,,,,18 April 2014,
+10,,,,,SKY Perfect JSAT Group,,,,14 July 2014,
+11,,,,,Iridium Communications,,,,5 August 2014,
+12,,,,,NASA,,,,7 September 2014,
+13,,,,,EchoStar,,,,21 September 2014,
+14,,,,,SES,,,,10 January 2015,
+15,,,,,NRO,,,,11 February 2015,
+16,,,,,Inmarsat,,,,2 March 2015,
+17,,,,,NASA,,,,14 April 2015,
+18,,,,,Bulsatcom,,,,27 April 2015,
+19,,,,,Iridium Communications,,,,28 June 2015,
+20,,,,,Intelsat,,,,22 December 2015,
+21,,,,,NASA,,,,17 January 2016,
+22,,,,,NSPO,,,,4 March 2016,
+23,,,,,USAF,,,,8 April 2016,
+24,,,,,Iridium Communications,,,,6 May 2016,
+25,,,,,SES S.A.,,,,27 May 2016,
+26,,,,,KT Corporation,,,,15 June 2016,
+27,,,,,NASA,,,,18 July 2016,
+28,,,,,Iridium Communications,,,,14 August 2016,
+29,,,,,Northrop Grumman,,,,14 January 2017,
+30,,,,,SES,,,,19 February 2017,
+31,,,,,Hisdesat,,,,16 March 2017,
+32,,,,,Hispasat,,,,30 March 2017,
+33,,,,,Iridium Communications,,,,1 May 2017,
+34,,,,,NASA,,,,15 May 2017,
+35,,,,,NASA,,,,3 June 2017,
+36,,,,,Thales-Alenia,,,,23 June 2017,
+37,,,,,Iridium Communications,,,,25 June 2017,
+38,,,,,SES,,,,5 July 2017,
+39,,,,,NASA,,,,14 August 2017,
+40,,,,,Telesat,,,,24 August 2017,
+41,,,,,Iridium Communications,,,,7 September 2017,
+42,,,,,Telkom Indonesia,,,,9 October 2017,
+43,,,,,Telesat,,,,11 October 2017,
+44,,,,,CONAE,,,,30 October 2017,
+45,,,,,Es'hailSat,,,,15 December 2017,
+46,,,,,Spaceflight Industries,,,,23 December 2017,
+47,,,,,NASA,,,,8 January 2018,
+48,,,,,USAF,,,,31 January 2018,
+49,,,,,Iridium Communications,,,,22 February 2018,
+50,,,,,PSN,,,,6 March 2018,
+51,,,,,NASA,,,,30 March 2018,
+52,,,,,NASA,,,,2 April 2018,
+53,,,,,SpaceX,,,,18 April 2018,
+54,,,,,Canadian Space Agency,,,,11 May 2018,
+55,,,,,NASA,,,,22 May 2018,
+56,,,,,Spacecom,,,,4 June 2018,
+57,,,,,SpaceX,,,,29 June 2018,
+58,,,,,NASA,,,,22 July 2018,
+59,,,,,Sky Perfect JSAT,,,,25 July 2018,
+60,,,,,SpaceX,,,,7 August 2018,
+61,,,,,NASA,,,,10 September 2018,
+62,,,,,SpaceX,,,,8 October 2018,
+63,,,,,SpaceX,,,,15 November 2018,
+64,,,,,NASA,,,,3 December 2018,
+65,,,,,SpaceX,,,,5 December 2018,
+66,,,,,SpaceX,,,,23 December 2018,
+67,,,,,NASA,,,,11 January 2019,
+68,,,,,SpaceX,,,,22 February 2019,
+69,,,,,SpaceX,,,,2 March 2019,
+70,,,,,U.S. Space Force,,,,4 May 2019,
+71,,,,,Republic of Korea Army,,,,24 May 2019,
+72,,,,,SpaceX,,,,12 June 2019,
+73,,,,,SpaceX,,,,25 July 2019,
+74,,,,,CONAE,,,,6 August 2019,
+75,,,,,SpaceX,,,,11 November 2019,
+76,,,,,SpaceX,,,,5 December 2019,
+77,,,,,SpaceX,,,,17 December 2019,
+78,,,,,SpaceX,,,,7 January 2020,
+79,,,,,USSF,,,,19 January 2020,
+80,,,,,NASA,,,,29 January 2020,
+81,,,,,NASA,,,,17 February 2020,
+82,,,,,SpaceX,,,,7 March 2020,
+83,,,,,NASA,,,,18 March 2020,
+84,,,,,Sirius XM,,,,22 April 2020,
+85,,,,,NRO,,,,30 May 2020,
+86,,,,,Türksat,,,,4 June 2020,
+87,,,,,SpaceX,,,,13 June 2020,
+88,,,,,,,,,30 June 2020,
+89,,,,,SpaceX,,,,20 July 2020,
+90,,,,,SpaceX,,,,7 August 2020,
+91,,,,,SpaceX,,,,18 August 2020,
+92,,,,,SpaceX,,,,30 August 2020,
+93,,,,,SpaceX,,,,3 September 2020,
+94,,,,,SpaceX,,,,6 October 2020,
+95,,,,,SpaceX,,,,18 October 2020,
+96,,,,,NASA,,,,24 October 2020,
+97,,,,,SpaceX,,,,5 November 2020,
+98,,,,,SpaceX,,,,16 November 2020,
+99,,,,,SpaceX,,,,21 November 2020,
+100,,,,,SpaceX,,,,25 November 2020,
+101,,,,,SpaceX,,,,6 December 2020,
+102,,,,,NASA,,,,13 December 2020,
+103,,,,,Sirius XM,,,,19 December 2020,
+104,,,,,SpaceX,,,,8 January 2021,
+105,,,,,NASA,,,,20 January 2021,
+106,,,,,NASA,,,,24 January 2021,
+107,,,,,NASA,,,,4 February 2021,
+108,,,,,NASA,,,,16 February 2021,
+109,,,,,MDA,,,,4 March 2021,
+110,,,,,SES,,,,11 March 2021,
+111,,,,,Thaicom,,,,14 March 2021,
+112,,,,,NASA,,,,24 March 2021,
+113,,,,,Orbcomm,,,,7 April 2021,
+114,,,,,AsiaSat,,,,23 April 2021,
+115,,,,,AsiaSat,,,,29 April 2021,
+116,,,,,NASA,,,,4 May 2021,
+117,,,,,NASA,,,,9 May 2021,
+118,,,,,USAF,,,,15 May 2021,
+119,,,,,ABS,,,,26 May 2021,
+120,,,,,NASA,,,,3 June 2021,
+121,,,,,,,,,6 June 2021,
+1,,,,,NASA,,,,,
+2,,,,,Orbcomm,,,,,
+3,,,,,NASA,,,,,
+4,,,,,SES,,,,,
+5,,,,,NASA,,,,,
+6,,,,,SKY Perfect JSAT Group,,,,,
+7,,,,,Thaicom,,,,,
+8,,,,,ABS,,,,,
+9,,,,,NASA,,,,,
+10,,,,,SKY Perfect JSAT Group,,,,,
+11,,,,,Iridium Communications,,,,,
+12,,,,,NASA,,,,,
+13,,,,,EchoStar,,,,,
+14,,,,,SES,,,,,
+15,,,,,NRO,,,,,
+16,,,,,Inmarsat,,,,,
+17,,,,,NASA,,,,,
+18,,,,,Bulsatcom,,,,,
+19,,,,,Iridium Communications,,,,,
+20,,,,,Intelsat,,,,,
+21,,,,,NASA,,,,,
+22,,,,,NSPO,,,,,
+23,,,,,USAF,,,,,
+24,,,,,Iridium Communications,,,,,
+25,,,,,SES S.A.,,,,,
+26,,,,,KT Corporation,,,,,
+27,,,,,NASA,,,,,
+28,,,,,Iridium Communications,,,,,
+29,,,,,Northrop Grumman,,,,,
+30,,,,,SES,,,,,
+31,,,,,Hisdesat,,,,,
+32,,,,,Hispasat,,,,,
+33,,,,,Iridium Communications,,,,,
+34,,,,,NASA,,,,,
+35,,,,,NASA,,,,,
+36,,,,,Thales-Alenia,,,,,
+37,,,,,Iridium Communications,,,,,
+38,,,,,SES,,,,,
+39,,,,,NASA,,,,,
+40,,,,,Telesat,,,,,
+41,,,,,Iridium Communications,,,,,
+42,,,,,Telkom Indonesia,,,,,
+43,,,,,Telesat,,,,,
+44,,,,,CONAE,,,,,
+45,,,,,Es'hailSat,,,,,
+46,,,,,Spaceflight Industries,,,,,
+47,,,,,NASA,,,,,
+48,,,,,USAF,,,,,
+49,,,,,Iridium Communications,,,,,
+50,,,,,PSN,,,,,
+51,,,,,NASA,,,,,
+52,,,,,NASA,,,,,
+53,,,,,SpaceX,,,,,
+54,,,,,Canadian Space Agency,,,,,
+55,,,,,NASA,,,,,
+56,,,,,Spacecom,,,,,
+57,,,,,SpaceX,,,,,
+58,,,,,NASA,,,,,
+59,,,,,Sky Perfect JSAT,,,,,
+60,,,,,SpaceX,,,,,
+61,,,,,NASA,,,,,
+62,,,,,SpaceX,,,,,
+63,,,,,SpaceX,,,,,
+64,,,,,NASA,,,,,
+65,,,,,SpaceX,,,,,
+66,,,,,SpaceX,,,,,
+67,,,,,NASA,,,,,
+68,,,,,SpaceX,,,,,
+69,,,,,SpaceX,,,,,
+70,,,,,U.S. Space Force,,,,,
+71,,,,,Republic of Korea Army,,,,,
+72,,,,,SpaceX,,,,,
+73,,,,,SpaceX,,,,,
+74,,,,,CONAE,,,,,
+75,,,,,SpaceX,,,,,
+76,,,,,SpaceX,,,,,
+77,,,,,SpaceX,,,,,
+78,,,,,SpaceX,,,,,
+79,,,,,USSF,,,,,
+80,,,,,NASA,,,,,
+81,,,,,NASA,,,,,
+82,,,,,SpaceX,,,,,
+83,,,,,NASA,,,,,
+84,,,,,Sirius XM,,,,,
+85,,,,,NRO,,,,,
+86,,,,,Türksat,,,,,
+87,,,,,SpaceX,,,,,
+88,,,,,,,,,,
+89,,,,,SpaceX,,,,,
+90,,,,,SpaceX,,,,,
+91,,,,,SpaceX,,,,,
+92,,,,,SpaceX,,,,,
+93,,,,,SpaceX,,,,,
+94,,,,,SpaceX,,,,,
+95,,,,,SpaceX,,,,,
+96,,,,,NASA,,,,,
+97,,,,,SpaceX,,,,,
+98,,,,,SpaceX,,,,,
+99,,,,,SpaceX,,,,,
+100,,,,,SpaceX,,,,,
+101,,,,,SpaceX,,,,,
+102,,,,,NASA,,,,,
+103,,,,,Sirius XM,,,,,
+104,,,,,SpaceX,,,,,
+105,,,,,NASA,,,,,
+106,,,,,NASA,,,,,
+107,,,,,NASA,,,,,
+108,,,,,NASA,,,,,
+109,,,,,MDA,,,,,
+110,,,,,SES,,,,,
+111,,,,,Thaicom,,,,,
+112,,,,,NASA,,,,,
+113,,,,,Orbcomm,,,,,
+114,,,,,AsiaSat,,,,,
+115,,,,,AsiaSat,,,,,
+116,,,,,NASA,,,,,
+117,,,,,NASA,,,,,
+118,,,,,USAF,,,,,
+119,,,,,ABS,,,,,
+120,,,,,NASA,,,,,
+121,,,,,,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,NASA,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Thaicom,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,EchoStar,,,,,
+,,,,,SES,,,,,
+,,,,,NRO,,,,,
+,,,,,Inmarsat,,,,,
+,,,,,NASA,,,,,
+,,,,,Bulsatcom,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Intelsat,,,,,
+,,,,,NASA,,,,,
+,,,,,NSPO,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES S.A.,,,,,
+,,,,,KT Corporation,,,,,
+,,,,,NASA,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Northrop Grumman,,,,,
+,,,,,SES,,,,,
+,,,,,Hisdesat,,,,,
+,,,,,Hispasat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,Thales-Alenia,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,Telesat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Telkom Indonesia,,,,,
+,,,,,Telesat,,,,,
+,,,,,CONAE,,,,,
+,,,,,Es'hailSat,,,,,
+,,,,,Spaceflight Industries,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,PSN,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,Canadian Space Agency,,,,,
+,,,,,NASA,,,,,
+,,,,,Spacecom,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sky Perfect JSAT,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,U.S. Space Force,,,,,
+,,,,,Republic of Korea Army,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,CONAE,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,USSF,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,NRO,,,,,
+,,,,,Türksat,,,,,
+,,,,,SpaceX,,,,,
+,,,,,,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,MDA,,,,,
+,,,,,SES,,,,,
+,,,,,Thaicom,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,NASA,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Thaicom,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,EchoStar,,,,,
+,,,,,SES,,,,,
+,,,,,NRO,,,,,
+,,,,,Inmarsat,,,,,
+,,,,,NASA,,,,,
+,,,,,Bulsatcom,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Intelsat,,,,,
+,,,,,NASA,,,,,
+,,,,,NSPO,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES S.A.,,,,,
+,,,,,KT Corporation,,,,,
+,,,,,NASA,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Northrop Grumman,,,,,
+,,,,,SES,,,,,
+,,,,,Hisdesat,,,,,
+,,,,,Hispasat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,Thales-Alenia,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,Telesat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Telkom Indonesia,,,,,
+,,,,,Telesat,,,,,
+,,,,,CONAE,,,,,
+,,,,,Es'hailSat,,,,,
+,,,,,Spaceflight Industries,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,PSN,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,Canadian Space Agency,,,,,
+,,,,,NASA,,,,,
+,,,,,Spacecom,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sky Perfect JSAT,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,U.S. Space Force,,,,,
+,,,,,Republic of Korea Army,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,CONAE,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,USSF,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,NRO,,,,,
+,,,,,Türksat,,,,,
+,,,,,SpaceX,,,,,
+,,,,,,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,MDA,,,,,
+,,,,,SES,,,,,
+,,,,,Thaicom,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,NASA,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Thaicom,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,EchoStar,,,,,
+,,,,,SES,,,,,
+,,,,,NRO,,,,,
+,,,,,Inmarsat,,,,,
+,,,,,NASA,,,,,
+,,,,,Bulsatcom,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Intelsat,,,,,
+,,,,,NASA,,,,,
+,,,,,NSPO,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES S.A.,,,,,
+,,,,,KT Corporation,,,,,
+,,,,,NASA,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Northrop Grumman,,,,,
+,,,,,SES,,,,,
+,,,,,Hisdesat,,,,,
+,,,,,Hispasat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,Thales-Alenia,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,Telesat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Telkom Indonesia,,,,,
+,,,,,Telesat,,,,,
+,,,,,CONAE,,,,,
+,,,,,Es'hailSat,,,,,
+,,,,,Spaceflight Industries,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,PSN,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,Canadian Space Agency,,,,,
+,,,,,NASA,,,,,
+,,,,,Spacecom,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sky Perfect JSAT,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,U.S. Space Force,,,,,
+,,,,,Republic of Korea Army,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,CONAE,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,USSF,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,NRO,,,,,
+,,,,,Türksat,,,,,
+,,,,,SpaceX,,,,,
+,,,,,,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,MDA,,,,,
+,,,,,SES,,,,,
+,,,,,Thaicom,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,NASA,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Thaicom,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,EchoStar,,,,,
+,,,,,SES,,,,,
+,,,,,NRO,,,,,
+,,,,,Inmarsat,,,,,
+,,,,,NASA,,,,,
+,,,,,Bulsatcom,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Intelsat,,,,,
+,,,,,NASA,,,,,
+,,,,,NSPO,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES S.A.,,,,,
+,,,,,KT Corporation,,,,,
+,,,,,NASA,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Northrop Grumman,,,,,
+,,,,,SES,,,,,
+,,,,,Hisdesat,,,,,
+,,,,,Hispasat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,Thales-Alenia,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,Telesat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Telkom Indonesia,,,,,
+,,,,,Telesat,,,,,
+,,,,,CONAE,,,,,
+,,,,,Es'hailSat,,,,,
+,,,,,Spaceflight Industries,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,PSN,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,Canadian Space Agency,,,,,
+,,,,,NASA,,,,,
+,,,,,Spacecom,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sky Perfect JSAT,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,U.S. Space Force,,,,,
+,,,,,Republic of Korea Army,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,CONAE,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,USSF,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,NRO,,,,,
+,,,,,Türksat,,,,,
+,,,,,SpaceX,,,,,
+,,,,,,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,MDA,,,,,
+,,,,,SES,,,,,
+,,,,,Thaicom,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,NASA,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Thaicom,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,EchoStar,,,,,
+,,,,,SES,,,,,
+,,,,,NRO,,,,,
+,,,,,Inmarsat,,,,,
+,,,,,NASA,,,,,
+,,,,,Bulsatcom,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Intelsat,,,,,
+,,,,,NASA,,,,,
+,,,,,NSPO,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES S.A.,,,,,
+,,,,,KT Corporation,,,,,
+,,,,,NASA,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Northrop Grumman,,,,,
+,,,,,SES,,,,,
+,,,,,Hisdesat,,,,,
+,,,,,Hispasat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,Thales-Alenia,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,Telesat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Telkom Indonesia,,,,,
+,,,,,Telesat,,,,,
+,,,,,CONAE,,,,,
+,,,,,Es'hailSat,,,,,
+,,,,,Spaceflight Industries,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,PSN,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,Canadian Space Agency,,,,,
+,,,,,NASA,,,,,
+,,,,,Spacecom,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sky Perfect JSAT,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,U.S. Space Force,,,,,
+,,,,,Republic of Korea Army,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,CONAE,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,USSF,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,NRO,,,,,
+,,,,,Türksat,,,,,
+,,,,,SpaceX,,,,,
+,,,,,,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,MDA,,,,,
+,,,,,SES,,,,,
+,,,,,Thaicom,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,AsiaSat,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,,,,,,
+,,,,,NASA,,,,,
+,,,,,Orbcomm,,,,,
+,,,,,NASA,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Thaicom,,,,,
+,,,,,ABS,,,,,
+,,,,,NASA,,,,,
+,,,,,SKY Perfect JSAT Group,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,EchoStar,,,,,
+,,,,,SES,,,,,
+,,,,,NRO,,,,,
+,,,,,Inmarsat,,,,,
+,,,,,NASA,,,,,
+,,,,,Bulsatcom,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Intelsat,,,,,
+,,,,,NASA,,,,,
+,,,,,NSPO,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES S.A.,,,,,
+,,,,,KT Corporation,,,,,
+,,,,,NASA,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Northrop Grumman,,,,,
+,,,,,SES,,,,,
+,,,,,Hisdesat,,,,,
+,,,,,Hispasat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,Thales-Alenia,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,SES,,,,,
+,,,,,NASA,,,,,
+,,,,,Telesat,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,Telkom Indonesia,,,,,
+,,,,,Telesat,,,,,
+,,,,,CONAE,,,,,
+,,,,,Es'hailSat,,,,,
+,,,,,Spaceflight Industries,,,,,
+,,,,,NASA,,,,,
+,,,,,USAF,,,,,
+,,,,,Iridium Communications,,,,,
+,,,,,PSN,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,Canadian Space Agency,,,,,
+,,,,,NASA,,,,,
+,,,,,Spacecom,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sky Perfect JSAT,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,U.S. Space Force,,,,,
+,,,,,Republic of Korea Army,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,CONAE,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,USSF,,,,,
+,,,,,NASA,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
+,,,,,NRO,,,,,
+,,,,,Türksat,,,,,
+,,,,,SpaceX,,,,,
+,,,,,,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,SpaceX,,,,,
+,,,,,NASA,,,,,
+,,,,,Sirius XM,,,,,
